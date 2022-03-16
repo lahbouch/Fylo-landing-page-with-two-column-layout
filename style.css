@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Opzn Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 15px;
   background-color: hsl(240, 75%, 98%);
 }
@@ -275,10 +275,10 @@ footer {
     flex-direction: row;
     width: 100%;
   }
-  .input__text {
+  .main .input__text {
     width: 70%;
   }
-  .input__btn {
+  .main .input__btn {
     width: 30%;
   }
   .main {
